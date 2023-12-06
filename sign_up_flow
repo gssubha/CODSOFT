@@ -1,0 +1,130 @@
+<div class="EnterPage" style="width: 360px; height: 640px; position: relative; background: white">
+  <div class="Rectangle1" style="width: 360px; height: 129.46px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #FE0CF4 0%, #F489EF 48%, #FAD9F9 100%)"></div>
+  <div class="PleaseLogInOrSignUpToEnterIntoMagicalWingsApp" style="width: 315px; height: 26px; left: 24px; top: 328px; position: absolute; color: black; font-size: 15px; font-family: Inter; font-weight: 400; word-wrap: break-word">Please log in or sign up to enter into magical wings app</div>
+  <div class="Rectangle2" style="width: 278px; height: 31px; left: 39px; top: 379px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Rectangle2" style="width: 278px; height: 31px; background: #F6A4F2; border-radius: 50px"></div>
+  </div>
+  <div class="LogIn" style="width: 258px; height: 35px; left: 52px; top: 379px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Log in</div>
+  <div class="OrLogInUsing" style="left: 142px; top: 428px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 11px; word-wrap: break-word">or log in using</div>
+  <div class="DonTHaveAnAccount" style="left: 75px; top: 596px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 400; line-height: 13px; word-wrap: break-word">Don’t have an account ?</div>
+  <div class="SignUp" style="left: 225px; top: 596px; position: absolute; color: #F458EE; font-size: 13px; font-family: Inter; font-weight: 400; line-height: 13px; word-wrap: break-word">Sign up</div>
+  <div class="Image5" style="width: 280px; height: 180px; left: 23px; top: 130px; position: absolute"></div>
+  <img class="Image6" style="width: 217px; height: 191px; left: 67px; top: 129px; position: absolute" src="https://via.placeholder.com/217x191" />
+  <div class="Rectangle14" style="width: 253px; height: 34px; left: 52px; top: 454px; position: absolute; background: rgba(217, 217, 217, 0.32); border-radius: 50px"></div>
+  <div class="Rectangle16" style="width: 253px; height: 34px; left: 52px; top: 544px; position: absolute; background: rgba(217, 217, 217, 0.32); border-radius: 50px"></div>
+  <div class="Rectangle15" style="width: 253px; height: 34px; left: 52px; top: 499px; position: absolute; background: rgba(217, 217, 217, 0.32); border-radius: 50px"></div>
+  <img class="Image7" style="width: 29px; height: 27px; left: 64px; top: 457px; position: absolute; border-radius: 100px" src="https://via.placeholder.com/29x27" />
+  <div class="LogInWithGoogle" style="width: 155px; height: 18px; left: 113px; top: 464px; position: absolute; text-align: center; color: black; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 11px; word-wrap: break-word">Log in with Google</div>
+  <div class="LogInWithNumber" style="width: 155px; height: 18px; left: 113px; top: 554px; position: absolute; text-align: center; color: black; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 11px; word-wrap: break-word">Log in with Number</div>
+  <div class="LogInWithLinkedin" style="width: 155px; height: 18px; left: 113px; top: 509px; position: absolute; text-align: center; color: black; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 11px; word-wrap: break-word">Log in with Linkedin</div>
+  <img class="Image8" style="width: 23px; height: 23px; left: 67px; top: 504px; position: absolute; border-radius: 100px" src="https://via.placeholder.com/23x23" />
+  <img class="Image10" style="width: 27.87px; height: 27px; left: 64px; top: 545px; position: absolute; border-radius: 100px" src="https://via.placeholder.com/28x27" />
+</div>
+
+
+
+<div class="SignUp" style="width: 360px; height: 640px; position: relative; background: white">
+  <img class="Image1" style="width: 106px; height: 108px; left: 127px; top: 145px; position: absolute" src="https://via.placeholder.com/106x108" />
+  <div class="SignUp" style="width: 91px; height: 42px; left: 132px; top: 265px; position: absolute; color: black; font-size: 25px; font-family: Inter; font-weight: 400; word-wrap: break-word">Sign up</div>
+  <div class="Rectangle2" style="width: 278px; height: 38px; left: 39px; top: 320px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Rectangle2" style="width: 278px; height: 38px; background: #D9D9D9; border-radius: 50px"></div>
+  </div>
+  <div class="EmailId" style="width: 258px; height: 35px; left: 52px; top: 320px; position: absolute; color: rgba(109.01, 106.20, 106.20, 0.78); font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">email id</div>
+  <div class="Rectangle3" style="width: 278px; height: 38px; left: 39px; top: 380px; position: absolute; background: #D9D9D9; border-radius: 50px"></div>
+  <div class="PhoneNo" style="left: 52px; top: 387px; position: absolute; color: #858383; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Phone no</div>
+  <div class="Rectangle4" style="width: 278px; height: 31px; left: 39px; top: 460px; position: absolute; background: #F39EF0; border-radius: 50px"></div>
+  <div class="SignUp" style="left: 155px; top: 464px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Sign up</div>
+  <div class="IAgreeWithPrivacyPolicy" style="left: 63px; top: 428px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 11px; word-wrap: break-word">I agree with privacy policy</div>
+  <div class="Checkmark" style="width: 15px; height: 16px; left: 45px; top: 426px; position: absolute">
+    <div class="Rectangle12" style="width: 12.19px; height: 14px; left: 1.41px; top: 1px; position: absolute; background: #116F39; border-radius: 3px"></div>
+    <div class="Rectangle4" style="width: 10.31px; height: 2px; left: 2.34px; top: 12px; position: absolute; background: #3EB972; border-radius: 1px"></div>
+    <div class="Rectangle11" style="width: 10.31px; height: 11px; left: 2.34px; top: 2px; position: absolute; background: linear-gradient(180deg, #D9F2DA 0%, #98DDB5 100%)"></div>
+    <div class="Vector8Stroke" style="width: 7.03px; height: 8.50px; left: 3.98px; top: 3.25px; position: absolute; background: #3EB972"></div>
+    <div class="Vector9Stroke" style="width: 7.03px; height: 7.50px; left: 3.98px; top: 3.25px; position: absolute; background: white"></div>
+  </div>
+  <div class="AlreadyHaveAnAccount" style="left: 79px; top: 600px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 400; line-height: 13px; word-wrap: break-word">Already have an account ?</div>
+  <div class="LogIn" style="left: 245px; top: 600px; position: absolute; color: #F458EE; font-size: 13px; font-family: Inter; font-weight: 400; line-height: 13px; word-wrap: break-word">Log in</div>
+  <img class="Image3" style="width: 19px; height: 12px; left: 284px; top: 393px; position: absolute" src="https://via.placeholder.com/19x12" />
+  <div class="Rectangle13" style="width: 509.24px; height: 169.14px; left: -79.52px; top: -10.65px; position: absolute; background: linear-gradient(180deg, #FA21F2 0%, #F39AEF 51%, #FEF7FE 100%)"></div>
+</div>
+
+
+
+<div class="LogIn" style="width: 360px; height: 640px; position: relative; background: white">
+  <div class="Rectangle1" style="width: 360px; height: 159px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #FE0CF4 0%, rgba(228.86, 45.58, 221.53, 0.52) 48%, rgba(237.36, 18, 228.59, 0) 100%)"></div>
+  <img class="Image1" style="width: 106px; height: 108px; left: 127px; top: 145px; position: absolute" src="https://via.placeholder.com/106x108" />
+  <div class="LogIn" style="width: 77px; height: 42px; left: 142px; top: 263px; position: absolute; color: black; font-size: 25px; font-family: Inter; font-weight: 400; word-wrap: break-word">Log In</div>
+  <div class="Rectangle2" style="width: 278px; height: 38px; left: 39px; top: 320px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Rectangle2" style="width: 278px; height: 38px; background: #D9D9D9; border-radius: 50px"></div>
+  </div>
+  <div class="UserName" style="width: 258px; height: 35px; left: 52px; top: 320px; position: absolute; color: rgba(109.01, 106.20, 106.20, 0.78); font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">user name</div>
+  <div class="Rectangle3" style="width: 278px; height: 38px; left: 39px; top: 380px; position: absolute; background: #D9D9D9; border-radius: 50px"></div>
+  <div class="Password" style="left: 52px; top: 387px; position: absolute; color: #858383; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">password</div>
+  <div class="Rectangle4" style="width: 278px; height: 31px; left: 39px; top: 460px; position: absolute; background: #F39EF0; border-radius: 50px"></div>
+  <div class="LogIn" style="left: 155px; top: 464px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Log in</div>
+  <div class="ForgotPassword" style="left: 223px; top: 429px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 11px; word-wrap: break-word">Forgot password ?</div>
+  <div class="RememberMe" style="left: 63px; top: 428px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 11px; word-wrap: break-word">Remember me</div>
+  <div class="Checkmark" style="width: 15px; height: 16px; left: 45px; top: 426px; position: absolute">
+    <div class="Rectangle12" style="width: 12.19px; height: 14px; left: 1.41px; top: 1px; position: absolute; background: #116F39; border-radius: 3px"></div>
+    <div class="Rectangle4" style="width: 10.31px; height: 2px; left: 2.34px; top: 12px; position: absolute; background: #3EB972; border-radius: 1px"></div>
+    <div class="Rectangle11" style="width: 10.31px; height: 11px; left: 2.34px; top: 2px; position: absolute; background: linear-gradient(180deg, #D9F2DA 0%, #98DDB5 100%)"></div>
+    <div class="Vector8Stroke" style="width: 7.03px; height: 8.50px; left: 3.98px; top: 3.25px; position: absolute; background: #3EB972"></div>
+    <div class="Vector9Stroke" style="width: 7.03px; height: 7.50px; left: 3.98px; top: 3.25px; position: absolute; background: white"></div>
+  </div>
+  <div class="DonTHaveAnAccount" style="left: 75px; top: 596px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 400; line-height: 13px; word-wrap: break-word">Don’t have an account ?</div>
+  <div class="SignUp" style="left: 225px; top: 596px; position: absolute; color: #F458EE; font-size: 13px; font-family: Inter; font-weight: 400; line-height: 13px; word-wrap: break-word">Sign up</div>
+  <img class="Image2" style="width: 19px; height: 12px; left: 283px; top: 393px; position: absolute" src="https://via.placeholder.com/19x12" />
+</div>
+
+
+
+<div class="SignUpPage" style="width: 360px; height: 640px; position: relative; background: white">
+  <div class="Rectangle1" style="width: 360px; height: 159px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #FE0CF4 0%, rgba(228.86, 45.58, 221.53, 0.52) 48%, rgba(237.36, 18, 228.59, 0) 100%)"></div>
+  <div class="SignUp" style="width: 96px; height: 41px; left: 132px; top: 178px; position: absolute; color: black; font-size: 25px; font-family: Inter; font-weight: 400; word-wrap: break-word">Sign up</div>
+  <div class="Rectangle2" style="width: 278px; height: 38px; left: 41px; top: 237px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Rectangle2" style="width: 278px; height: 38px; background: #D9D9D9; border-radius: 50px"></div>
+  </div>
+  <div class="Rectangle5" style="width: 278px; height: 38px; left: 41px; top: 283px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Rectangle2" style="width: 278px; height: 38px; background: #D9D9D9; border-radius: 50px"></div>
+  </div>
+  <div class="FirstName" style="width: 258px; height: 35px; left: 54px; top: 237px; position: absolute; color: rgba(109.01, 106.20, 106.20, 0.78); font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">First name</div>
+  <div class="LastName" style="width: 258px; height: 35px; left: 54px; top: 283px; position: absolute; color: rgba(109.01, 106.20, 106.20, 0.78); font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Last name</div>
+  <div class="Rectangle3" style="width: 278px; height: 38px; left: 39px; top: 375px; position: absolute; background: #D9D9D9; border-radius: 50px"></div>
+  <div class="Rectangle6" style="width: 278px; height: 38px; left: 39px; top: 329px; position: absolute; background: #D9D9D9; border-radius: 50px"></div>
+  <div class="ConformPassword" style="left: 52px; top: 382px; position: absolute; color: #858383; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Conform password</div>
+  <div class="Password" style="left: 52px; top: 336px; position: absolute; color: #858383; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">password</div>
+  <div class="Rectangle4" style="width: 278px; height: 31px; left: 41px; top: 471px; position: absolute; background: #F39EF0; border-radius: 50px"></div>
+  <div class="Next" style="left: 160px; top: 474px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Next</div>
+  <div class="RememberMe" style="left: 65px; top: 439px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 11px; word-wrap: break-word">Remember me</div>
+  <div class="Checkmark" style="width: 15px; height: 16px; left: 47px; top: 437px; position: absolute">
+    <div class="Rectangle12" style="width: 12.19px; height: 14px; left: 1.41px; top: 1px; position: absolute; background: #116F39; border-radius: 3px"></div>
+    <div class="Rectangle4" style="width: 10.31px; height: 2px; left: 2.34px; top: 12px; position: absolute; background: #3EB972; border-radius: 1px"></div>
+    <div class="Rectangle11" style="width: 10.31px; height: 11px; left: 2.34px; top: 2px; position: absolute; background: linear-gradient(180deg, #D9F2DA 0%, #98DDB5 100%)"></div>
+    <div class="Vector8Stroke" style="width: 7.03px; height: 8.50px; left: 3.98px; top: 3.25px; position: absolute; background: #3EB972"></div>
+    <div class="Vector9Stroke" style="width: 7.03px; height: 7.50px; left: 3.98px; top: 3.25px; position: absolute; background: white"></div>
+  </div>
+  <div class="AlreadyHaveAnAccount" style="left: 75px; top: 596px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 400; line-height: 13px; word-wrap: break-word">Already have an account ?</div>
+  <div class="LogIn" style="left: 238px; top: 596px; position: absolute; color: #F458EE; font-size: 13px; font-family: Inter; font-weight: 400; line-height: 13px; word-wrap: break-word">Log in</div>
+  <img class="Image2" style="width: 19px; height: 12px; left: 283px; top: 393px; position: absolute" src="https://via.placeholder.com/19x12" />
+  <img class="Image3" style="width: 19px; height: 12px; left: 283px; top: 347px; position: absolute" src="https://via.placeholder.com/19x12" />
+</div>
+
+
+
+<div class="EnterPage" style="width: 360px; height: 640px; position: relative; background: white">
+  <div class="Rectangle1" style="width: 360px; height: 129.46px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #FE0CF4 0%, #F489EF 48%, #FAD9F9 100%)"></div>
+  <div class="Congratulation" style="width: 315px; height: 26px; left: 18px; top: 366px; position: absolute; text-align: center; color: #FC21F3; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Congratulation</div>
+  <div class="YourProcessHasBeenCompletedForEnteringTheMagicalWingsApp" style="width: 278px; height: 35px; left: 41px; top: 405px; position: absolute; text-align: center; color: #9D2798; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Your process has been completed for entering the magical wings app</div>
+  <div class="Image5" style="width: 280px; height: 180px; left: 23px; top: 130px; position: absolute"></div>
+  <img class="Image6" style="width: 236px; height: 237px; left: 58px; top: 129px; position: absolute" src="https://via.placeholder.com/236x237" />
+</div>
+
+
+
+<div class="EnterPage" style="width: 360px; height: 640px; position: relative; background: white">
+  <div class="Rectangle1" style="width: 360px; height: 129.46px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #FE0CF4 0%, #F489EF 48%, #FAD9F9 100%)"></div>
+  <div class="Congratulation" style="width: 315px; height: 26px; left: 18px; top: 366px; position: absolute; text-align: center; color: #FC21F3; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Congratulation</div>
+  <div class="SuccessfullyEnteredIntoMagicalWingsApp" style="width: 278px; height: 35px; left: 41px; top: 405px; position: absolute; text-align: center; color: #9D2798; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Successfully entered into <br/>magical wings app</div>
+  <div class="Image5" style="width: 280px; height: 180px; left: 23px; top: 130px; position: absolute"></div>
+  <img class="Image6" style="width: 236px; height: 237px; left: 58px; top: 129px; position: absolute" src="https://via.placeholder.com/236x237" />
+</div>
