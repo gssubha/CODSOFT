@@ -1,0 +1,31 @@
+<div class="Email" style="width: 360px; height: 800px; position: relative; background: white">
+  <div class="Rectangle1" style="width: 360px; height: 231px; left: 0px; top: -2px; position: absolute; background: linear-gradient(180deg, #FF6B00 0%, rgba(255, 92.34, 0.85, 0.29) 100%)"></div>
+  <div class="Rectangle2" style="width: 360px; height: 231px; left: 0px; top: 569px; position: absolute; background: linear-gradient(180deg, #FFAE7D 0%, rgba(255, 181.40, 140, 0.60) 0%, #FF720E 100%)"></div>
+  <div class="Rectangle3" style="width: 303px; height: 436px; left: 29px; top: 50px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 25px"></div>
+  <img class="Rectangle4" style="width: 251px; height: 212px; left: 58px; top: 79px; position: absolute; border-radius: 15px" src="https://via.placeholder.com/251x212" />
+  <div class="ExploreTasteOfWorld" style="left: 45px; top: 305px; position: absolute; color: #1E1E1E; font-size: 24px; font-family: Inter; font-weight: 900; word-wrap: break-word">Explore Taste of World</div>
+  <div class="ASymphonyOfFlavorsAwaitsYouAtWorldWideTasteReserveYourSpotAndTreatYourTasteBudsToSomethingExtraordinary" style="width: 271px; left: 48px; top: 338px; position: absolute; color: rgba(30, 30, 30, 0.71); font-size: 16px; font-family: Inter; font-style: italic; font-weight: 400; word-wrap: break-word">A symphony of flavors awaits you at World Wide Taste. Reserve your spot and treat your taste buds to something extraordinary.</div>
+  <div class="Rectangle5" style="width: 164px; height: 32px; left: 98px; top: 428px; position: absolute; background: #FF720E; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 25px"></div>
+  <div class="Rectangle8" style="width: 164px; height: 32px; left: 98px; top: 645px; position: absolute; background: #FF720E; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 25px"></div>
+  <div class="MoreOffers" style="left: 136px; top: 651px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-style: italic; font-weight: 400; word-wrap: break-word">More offers</div>
+  <div class="ReserveYourTable" style="left: 109px; top: 434px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-style: italic; font-weight: 400; word-wrap: break-word">Reserve your table</div>
+  <div class="Offers" style="left: 44px; top: 500px; position: absolute; color: #1E1E1E; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">OFFERS</div>
+  <div class="Rectangle6" style="width: 178px; height: 49px; left: 91px; top: 524px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 10px"></div>
+  <div class="Rectangle7" style="width: 178px; height: 49px; left: 91px; top: 584px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 10px"></div>
+  <div class="NovemberMonthBirthdayOffer" style="left: 155px; top: 532px; position: absolute; color: rgba(30, 30, 30, 0.66); font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">November month<br/>birthday offer</div>
+  <div class="OfferForWomens" style="left: 155px; top: 592px; position: absolute; color: rgba(30, 30, 30, 0.66); font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">50% offer for <br/>womens </div>
+  <img class="Image1" style="width: 38px; height: 36px; left: 103px; top: 531px; position: absolute; border-radius: 360px" src="https://via.placeholder.com/38x36" />
+  <img class="Image3" style="width: 36px; height: 35px; left: 103px; top: 592px; position: absolute; border-radius: 3600px" src="https://via.placeholder.com/36x35" />
+  <div class="Group1" style="width: 309px; height: 79px; left: 32px; top: 697px; position: absolute">
+    <div class="TermsConditions" style="left: 0px; top: 69px; position: absolute; color: white; font-size: 8px; font-family: Inter; font-weight: 400; word-wrap: break-word">Terms & conditions</div>
+    <div class="PrivatePolicy" style="left: 90px; top: 69px; position: absolute; color: white; font-size: 8px; font-family: Inter; font-weight: 400; word-wrap: break-word">Private Policy</div>
+    <div class="ContactUs" style="left: 168px; top: 69px; position: absolute; color: white; font-size: 8px; font-family: Inter; font-weight: 400; word-wrap: break-word">Contact us</div>
+    <div class="ThisIsTheVersionOfOurWebsiteAddressedToSpeakersOfEnglishInUnitedKingdomIfYouAreResidentOfAnotherCountryOrRegionPleaseSeleteTheAppropriateVersionOfDesignLegueForYourCountryOrRegionInTheDroupDownMenuMore" style="left: 0px; top: 17px; position: absolute; color: white; font-size: 8px; font-family: Inter; font-weight: 400; word-wrap: break-word">This is the version of our website addressed to speakers of English in United <br/>Kingdom.  If you are resident of another country or region, please selete the <br/>appropriate version of Design Legue for your country or region in the droup-down<br/>menu. more</div>
+    <div class="Telegram" style="left: 0px; top: 0px; position: absolute"><span style="color: white; font-size: 8px; font-family: Inter; font-style: italic; font-weight: 400; word-wrap: break-word">Telegram</span><span style="color: black; font-size: 8px; font-family: Inter; font-style: italic; font-weight: 400; word-wrap: break-word"> </span></div>
+    <div class="Instagram" style="left: 60px; top: 0px; position: absolute; color: white; font-size: 8px; font-family: Inter; font-weight: 400; word-wrap: break-word">Instagram</div>
+    <div class="Twitter" style="left: 122px; top: 0px; position: absolute; color: white; font-size: 8px; font-family: Inter; font-weight: 400; word-wrap: break-word">Twitter</div>
+  </div>
+  <div class="Rectangle9" style="width: 79px; height: 22px; left: 246px; top: 18px; position: absolute; background: #FCA261; border-radius: 10px"></div>
+  <div class="VisitSite" style="width: 46px; height: 12px; left: 263px; top: 23px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 500; word-wrap: break-word">Visit site</div>
+  <div class="WorldWideTaste" style="left: 48px; top: 18px; position: absolute; color: white; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">World Wide Taste</div>
+</div>
