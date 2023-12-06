@@ -1,0 +1,121 @@
+<div class="AndroidLarge1" style="width: 360px; height: 800px; position: relative; background: white">
+  <div class="WorldWideTaste" style="left: 35px; top: 18px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 700; word-wrap: break-word">World Wide Taste</div>
+  <img class="Image1" style="width: 22px; height: 22px; left: 9px; top: 13px; position: absolute; border-radius: 360px; border: 1px black solid" src="https://via.placeholder.com/22x22" />
+  <img class="Image2" style="width: 8px; height: 8px; left: 160px; top: 18px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image3" style="width: 8px; height: 8px; left: 175px; top: 18px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image4" style="width: 10px; height: 10px; left: 190px; top: 17px; position: absolute" src="https://via.placeholder.com/10x10" />
+  <img class="Image5" style="width: 8px; height: 8px; left: 330px; top: 17px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image6" style="width: 8px; height: 8px; left: 343px; top: 17px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <div class="Home" style="left: 88px; top: 50px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 700; word-wrap: break-word">Home </div>
+  <div class="Cart" style="left: 197px; top: 54px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">Cart</div>
+  <div class="More" style="left: 240px; top: 54px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">More </div>
+  <div class="Group2" style="left: 142px; top: 54px; position: absolute">
+    <div class="Order" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">Order</div>
+    <img class="Image7" style="width: 8px; height: 8px; left: 28px; top: 4px; position: absolute" src="https://via.placeholder.com/8x8" />
+  </div>
+  <div class="WelcomeToWorldWideTaste" style="left: 48px; top: 85px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">Welcome to World Wide Taste </div>
+  <img class="Image8" style="width: 30px; height: 30px; left: 288px; top: 79px; position: absolute; border-radius: 360px; border: 1px black solid" src="https://via.placeholder.com/30x30" />
+  <div class="SelectYourOrderTypeToStart" style="left: 58px; top: 312px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word">SELECT YOUR ORDER TYPE TO START</div>
+  <div class="Rectangle1" style="width: 223px; height: 25px; left: 68px; top: 348px; position: absolute; background: black; border-radius: 100px; border: 1px black solid"></div>
+  <div class="Rectangle2" style="width: 223px; height: 25px; left: 68px; top: 379px; position: absolute; background: black; border-radius: 100px; border: 1px black solid"></div>
+  <div class="Rectangle3" style="width: 223px; height: 25px; left: 68px; top: 410px; position: absolute; background: black; border-radius: 100px; border: 1px black solid"></div>
+  <div class="Delivery" style="left: 155px; top: 352px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">Delivery</div>
+  <div class="Pickup" style="left: 159px; top: 384px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">Pickup</div>
+  <div class="DineIn" style="left: 157px; top: 415px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">Dine-in</div>
+  <div class="Categories" style="left: 16px; top: 456px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">CATEGORIES</div>
+  <div style="left: 130px; top: 451px; position: absolute; color: rgba(0, 0, 0, 0.29); font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">_____________________________</div>
+  <img class="Image10" style="width: 150px; height: 100.01px; left: 194px; top: 488px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/150x100" />
+  <img class="Image11" style="width: 150px; height: 99px; left: 16px; top: 488px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/150x99" />
+  <div class="Rectangle4" style="width: 150px; height: 34px; left: 16px; top: 587px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="Breakfast" style="left: 45px; top: 594px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">BREAKFAST</div>
+  <div class="Rectangle5" style="width: 150px; height: 33px; left: 194px; top: 588px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="Lunch" style="left: 240px; top: 595px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">LUNCH</div>
+  <img class="Image12" style="width: 150px; height: 100px; left: 16px; top: 639px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/150x100" />
+  <div class="Rectangle6" style="width: 150px; height: 34px; left: 16px; top: 739px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="Dessert" style="left: 58px; top: 746px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">DESSERT</div>
+  <div class="Rectangle7" style="width: 150px; height: 134px; left: 193px; top: 645px; position: absolute; background: rgba(217, 217, 217, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="ViewAllMenu" style="left: 221px; top: 732px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 500; word-wrap: break-word">View All Menu</div>
+  <img class="Image13" style="width: 360px; height: 169px; left: 0px; top: 123px; position: absolute" src="https://via.placeholder.com/360x169" />
+  <img class="Image14" style="width: 95px; height: 81px; left: 220px; top: 654px; position: absolute" src="https://via.placeholder.com/95x81" />
+</div>
+
+
+
+<div class="AndroidLarge2" style="width: 360px; height: 800px; position: relative; background: white">
+  <div class="WorldWideTaste" style="left: 35px; top: 18px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 700; word-wrap: break-word">World Wide Taste</div>
+  <img class="Image1" style="width: 22px; height: 22px; left: 9px; top: 13px; position: absolute; border-radius: 360px; border: 1px black solid" src="https://via.placeholder.com/22x22" />
+  <img class="Image2" style="width: 8px; height: 8px; left: 160px; top: 18px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image3" style="width: 8px; height: 8px; left: 175px; top: 18px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image4" style="width: 10px; height: 10px; left: 190px; top: 17px; position: absolute" src="https://via.placeholder.com/10x10" />
+  <img class="Image5" style="width: 8px; height: 8px; left: 330px; top: 17px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image18" style="width: 20px; height: 20px; left: 31px; top: 81px; position: absolute" src="https://via.placeholder.com/20x20" />
+  <img class="Image6" style="width: 8px; height: 8px; left: 343px; top: 17px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <div class="Home" style="left: 87px; top: 54px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">Home </div>
+  <div class="Order" style="left: 142px; top: 50px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 700; word-wrap: break-word">Order</div>
+  <div class="Cart" style="left: 197px; top: 54px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">Cart</div>
+  <div class="More" style="left: 240px; top: 54px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">More </div>
+  <img class="Image7" style="width: 8px; height: 8px; left: 171px; top: 54px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <div class="Rectangle9" style="width: 150px; height: 34px; left: 196px; top: 255px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="Rectangle14" style="width: 150px; height: 34px; left: 16px; top: 576px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="Rectangle13" style="width: 150px; height: 34px; left: 196px; top: 421px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="Idle" style="left: 257px; top: 263px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">IDLE</div>
+  <div class="ChocoBlast" style="left: 32px; top: 586px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">CHOCO BLAST</div>
+  <div class="FriedRice" style="left: 226px; top: 429px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">FRIED RICE</div>
+  <div class="Rectangle5" style="width: 150px; height: 33px; left: 196px; top: 577px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="ChocoShake" style="left: 216px; top: 584px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">CHOCO SHAKE</div>
+  <div class="Rectangle12" style="width: 151px; height: 34px; left: 195px; top: 739px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="Momo" style="left: 244px; top: 746px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">MOMO</div>
+  <div style="left: 63px; top: 85px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">_____________________________</div>
+  <div class="Search" style="left: 69px; top: 81px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">Search</div>
+  <div class="All" style="left: 28px; top: 115px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">All</div>
+  <div class="Breakfast" style="left: 66px; top: 121px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">Breakfast</div>
+  <div class="Lunch" style="left: 219px; top: 121px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">Lunch</div>
+  <div class="Dessert" style="left: 148px; top: 121px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">Dessert</div>
+  <div class="Dinning" style="left: 279px; top: 121px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">Dinning</div>
+  <div class="Group1" style="width: 150px; height: 134px; left: 16px; top: 155px; position: absolute">
+    <div class="Rectangle8" style="width: 150px; height: 34px; left: 0px; top: 100px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+    <div class="BreadOmelet" style="left: 13px; top: 108px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">BREAD OMELET</div>
+    <img class="Image19" style="width: 150px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/150x100" />
+  </div>
+  <div class="Group3" style="width: 150px; height: 143px; left: 16px; top: 312px; position: absolute">
+    <div class="Rectangle11" style="width: 150px; height: 34px; left: 0px; top: 109px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+    <div class="Ramen" style="left: 41px; top: 117px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">RAMEN</div>
+    <img class="Image21" style="width: 150px; height: 110.29px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/150x110" />
+  </div>
+  <img class="Image22" style="width: 150px; height: 112.36px; left: 196px; top: 309px; position: absolute" src="https://via.placeholder.com/150x112" />
+  <img class="Image23" style="width: 150px; height: 100px; left: 16px; top: 477px; position: absolute" src="https://via.placeholder.com/150x100" />
+  <img class="Image24" style="width: 150px; height: 100px; left: 196px; top: 477px; position: absolute" src="https://via.placeholder.com/150x100" />
+  <div class="Rectangle6" style="width: 150px; height: 34px; left: 16px; top: 739px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div class="Sushi" style="left: 66px; top: 746px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">SUSHI</div>
+  <img class="Image25" style="width: 150px; height: 99.38px; left: 16px; top: 639px; position: absolute" src="https://via.placeholder.com/150x99" />
+  <img class="Image26" style="width: 151px; height: 100px; left: 195px; top: 639px; position: absolute" src="https://via.placeholder.com/151x100" />
+  <img class="Image20" style="width: 150px; height: 99.82px; left: 196px; top: 155px; position: absolute" src="https://via.placeholder.com/150x100" />
+</div>
+
+
+
+<div class="AndroidLarge3" style="width: 360px; height: 800px; position: relative; background: white">
+  <div class="WorldWideTaste" style="left: 35px; top: 18px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 700; word-wrap: break-word">World Wide Taste</div>
+  <img class="Image1" style="width: 22px; height: 22px; left: 9px; top: 13px; position: absolute; border-radius: 360px; border: 1px black solid" src="https://via.placeholder.com/22x22" />
+  <img class="Image2" style="width: 8px; height: 8px; left: 160px; top: 18px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image3" style="width: 8px; height: 8px; left: 175px; top: 18px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image4" style="width: 10px; height: 10px; left: 190px; top: 17px; position: absolute" src="https://via.placeholder.com/10x10" />
+  <img class="Image5" style="width: 8px; height: 8px; left: 330px; top: 17px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image6" style="width: 8px; height: 8px; left: 343px; top: 17px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <div class="Home" style="left: 87px; top: 54px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">Home </div>
+  <div class="Order" style="left: 142px; top: 50px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 700; word-wrap: break-word">Order</div>
+  <div class="Cart" style="left: 197px; top: 54px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">Cart</div>
+  <div class="More" style="left: 240px; top: 54px; position: absolute; color: black; font-size: 10px; font-family: Inter; font-weight: 400; word-wrap: break-word">More </div>
+  <img class="Image7" style="width: 8px; height: 8px; left: 171px; top: 54px; position: absolute" src="https://via.placeholder.com/8x8" />
+  <img class="Image21" style="width: 360px; height: 236px; left: 0px; top: 89px; position: absolute" src="https://via.placeholder.com/360x236" />
+  <div class="Ramen" style="left: 28px; top: 352px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">RAMEN</div>
+  <div class="RamenIsAJapaneseDishThatConsistsOfChineseStyleWheatNoodlesServedInAMeatOrFishBasedBrothOftenFlavoredWithSoySauceOrMisoAndToppedWithIngredientsSuchAsSlicedPorkDriedSeaweedGreenOnionsAndOccasionallyCornOrBoiledEggs" style="width: 319px; height: 131px; left: 28px; top: 386px; position: absolute; color: rgba(0, 0, 0, 0.55); font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">             Ramen is a Japanese dish that consists of Chinese-style wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso, and topped with ingredients such as sliced pork, dried seaweed, green onions, and occasionally corn or boiled eggs.</div>
+  <div class="RecentlyViewed" style="left: 28px; top: 521px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">Recently Viewed</div>
+  <div class="Rs25000" style="left: 238px; top: 352px; position: absolute; color: rgba(0, 0, 0, 0.69); font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">Rs.250.00</div>
+  <img class="Image27" style="width: 100px; height: 100px; left: 28px; top: 563px; position: absolute; border-radius: 10px" src="https://via.placeholder.com/100x100" />
+  <img class="Image28" style="width: 100px; height: 100px; left: 138px; top: 563px; position: absolute; border-radius: 10px" src="https://via.placeholder.com/100x100" />
+  <img class="Image29" style="width: 100px; height: 100px; left: 249px; top: 563px; position: absolute; border-radius: 10px" src="https://via.placeholder.com/100x100" />
+  <div class="Rectangle15" style="width: 226px; height: 39px; left: 103px; top: 726px; position: absolute; background: black; border-radius: 15px"></div>
+  <div class="AddToCart" style="left: 178px; top: 737px; position: absolute; color: white; font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word">Add to cart</div>
+  <img class="Image30" style="width: 60px; height: 60px; left: 33px; top: 716px; position: absolute" src="https://via.placeholder.com/60x60" />
+</div>
